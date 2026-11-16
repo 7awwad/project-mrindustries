@@ -1,5 +1,5 @@
 1. What approach did you take for garment overlay and why?
-I took a Landmark-Anchored 2D Matrix Transformation approach.
+I took a Landmark-Anchored 2D Matrix Transformation approach
 
 Pose Detection: I used MediaPipe to extract human pose landmarks, specifically isolating the shoulders (Points 11 & 12) and hips (Points 23 & 24).
 
